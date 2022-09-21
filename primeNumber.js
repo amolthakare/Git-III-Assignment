@@ -1,4 +1,4 @@
-var num;
+let num;
 function Prime(num){
     let count=0;
     for(let i=2;i<num;i++){
